@@ -1,8 +1,6 @@
 /*
  * FIFO.h
- *
- *  Created on: Aug 13, 2023
- *      Author: sonat
+ *     Author: mohamed amiin
  */
 
 #ifndef FIFO_H_
