@@ -1,8 +1,6 @@
 /*
  * LIFO.H
- *
- *  Created on: Aug 13, 2023
- *      Author: Hussein Elsaka
+ *      Author: mohamed amiin
  */
 
 #ifndef LIFO_H_
